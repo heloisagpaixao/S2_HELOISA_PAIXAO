@@ -6,6 +6,17 @@ sabores = {
     "morango": 11.0
 }
 
+formatos = {
+    "coração": 0.8,
+    "círculo": 1.0,
+    "pirâmide": 1.5
+}
+
+cores = {
+    "azul": 3.0,
+    "verde": 4.0,
+    "rosa": 3.5
+}
 
 
 print("Bem-vindo à confeitaria!")
