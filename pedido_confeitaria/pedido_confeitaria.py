@@ -6,7 +6,17 @@ sabores = {
     "morango": 11.0
 }
 
+tamanhos = {
+    "pequeno": 0.8,
+    "médio": 1.0,
+    "grande": 1.5
+}
 
+coberturas = {
+    "chantilly": 3.0,
+    "chocolate": 4.0,
+    "morango": 3.5
+}
 
 print("Bem-vindo à confeitaria!")
 
