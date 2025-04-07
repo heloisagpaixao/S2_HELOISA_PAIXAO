@@ -1,10 +1,17 @@
-# S2_HELOISA_PAIXAO
-Esse é um repositório criado para a aula de Lógica da Programação e Algoritmo como insturmento de avaliação.
+# 🍰 Confeitaria SENAI!
+Bem-vindo(a) à nossa doceria virtual! 🧁
+Aqui você pode montar seu bolinho escolhendo o sabor, o tamanho e a cobertura!! 🎉
 
-  Bem-vindo ao Sistema de venda e criação de bolos de uma confeitaria! 🎉
+🚀 Como usar:
+1. Execute o script em Python 🐍
+2. Escolha seu sabor favorito 😋
+3. Defina o tamanho do bolo 📏
+4. Finalize com uma deliciosa cobertura 🍫
+5. Veja o preço e aproveite! 💸
 
-  Este é um projetinho simples feito em Python que simula um sistema de uma confeitaria. Ele permite que o cliente escolha o sabor, tamanho e cobertura de sua preferência tudo de forma fácil e prática. Ao final, o cliente recebe o valor que ele deverá pagar! 😎
+💻 Tecnologias usadas:
+- input() e print() para interação com o usuário
+- if, elif, else para decisões lógicas
+- dicionários para armazenar preços e opções
 
-Funcionalidades ✨
-  Escolhas do cliente: Insira os dados a sua escolha (sabor, tamanho e cobertura). 
-  Exiba o valor: Ele soma o valor de cada escolha e mostra no final para o cliente. 
+Feito com carinho e açúcar 💕
